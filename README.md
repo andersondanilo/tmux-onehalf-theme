@@ -8,6 +8,12 @@ Screenshot with nvim with the theme from https://github.com/sonph/onehalf
 
 <img src="https://i.imgur.com/WlUV0tu.png" title="Tmux grovbox dark colorscheme" style="width: 100%; " />
 
+## Dependencies
+
+- `set -g @plugin 'tmux-plugins/tmux-cpu' # *Plugin after theme (dont work before)`
+- Patched nerd font (tested with DejaVuSansMono Nerd Font)
+
+
 ## Installation
 
 ### Install manually
